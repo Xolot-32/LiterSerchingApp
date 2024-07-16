@@ -1,0 +1,27 @@
+src
+├── main
+│   ├── java
+│   │   └── com
+│   │       └── example
+│   │           └── gutendexclient
+│   │               ├── GutendexClientApplication.java
+│   │               ├── model
+│   │               │   ├── Book.java
+│   │               │   ├── Author.java
+│   │               │   └── Format.java
+│   │               ├── repository
+│   │               │   ├── BookRepository.java
+│   │               │   └── AuthorRepository.java
+│   │               ├── service
+│   │               │   ├── GutendexService.java
+│   │               │   └── DatabaseService.java
+│   │               └── util
+│   │                   └── JsonParser.java
+│   └── resources
+│       └── application.properties
+└── test
+    └── java
+        └── com
+            └── example
+                └── gutendexclient
+                    └── GutendexClientApplicationTests.java
