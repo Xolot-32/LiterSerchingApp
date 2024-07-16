@@ -18,7 +18,7 @@ LiterSearchingApp es una aplicación de consola Java que interactúa con la API 
 ## Configuración
 1. Clone el repositorio:
    ```
-  
+  https://github.com/Xolot-32/LiterSerchingApp
    ```
 
 2. Configure la base de datos PostgreSQL:
